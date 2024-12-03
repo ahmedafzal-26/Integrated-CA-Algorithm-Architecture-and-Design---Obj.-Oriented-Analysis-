@@ -1,0 +1,2 @@
+# Integrated-CA-Algorithm-Architecture-and-Design---Obj.-Oriented-Analysis-
+The Integrated-CA assignment involves upgrading the Zoo Project system to enhance animal adoption, categorization, and monitoring. You will develop new features that allow staff to effectively track and assess animal behavior, improving the system's overall functionality for better health, behavioral management. and much more.
